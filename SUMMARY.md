@@ -10,3 +10,11 @@
   * [6.继承与面向对象设计](effective-c++/sixth-section.md)
   * [7.模板与泛型编程](effective-c++/seventh-section.md)
   * [8.定制new和delete](effective-c++/eighth-section.md)
+* [More effective c++](more-effective-c++/more-effective-c++.md)
+  * [1.基础议题](more-effective-c++/first-section.md) 
+  * [2.操作符](more-effective-c++/second-section.md)
+  * [3.异常](more-effective-c++/third-section.md)
+  * [4.效率](more-effective-c++/fourth-section.md)
+  * [5.技术](more-effective-c++/fifth-section.md)
+  * [6.杂项讨论](more-effective-c++/sixth-section.md)
+
