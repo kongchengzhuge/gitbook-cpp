@@ -18,7 +18,6 @@
     * [5.技术](more-effective-c++/fifth-section.md)
     * [6.杂项讨论](more-effective-c++/sixth-section.md)
 * [effective modern c++](effective-modern-c++/effective-modern-c++.md)
-    * [sadfasd](dafsaf)
     * [1.型别推导](effective-modern-c++/first-section.md)
     * [2.auto](effective-modern-c++/second-section.md)
     * [3.转向现代c++](effective-modern-c++/third-section.md)
