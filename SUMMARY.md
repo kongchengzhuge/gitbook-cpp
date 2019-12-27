@@ -26,4 +26,5 @@
     * [6.lambda表达式](effective-modern-c++/sixth-section.md)
     * [7.并发API](effective-modern-c++/seven-section.md)
     * [8.微调](effective-modern-c++/eighth-second.md)
-
+* [stl源码剖析](stl源码剖析/stl源码剖析.md)
+* [cpp-concurrency-in-action](cpp-concurrency-in-action/cpp-concurrency-in-action.md)
